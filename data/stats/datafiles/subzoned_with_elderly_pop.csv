@@ -1,0 +1,315 @@
+ID,SZSCD,SZZCD,DGPZ_CODE,DGPSZ_CODE,REGION,DGPZ_NAME,DGPSZ_NAME,ELDERLY_POP
+1164754,1,BT,4,401,3,Bukit Timah,Anak Bukit,4500
+1164755,2,BT,4,402,3,Bukit Timah,Anak Bukit,4500
+1164756,3,BT,4,403,3,Bukit Timah,Anak Bukit,4500
+1164821,2,BD,13,1302,4,Bedok,Bedok,19480
+1164823,4,BD,13,1304,4,Bedok,Bedok,4290
+1164825,6,BD,13,1306,4,Bedok,Bedok,12130
+1164768,2,KL,6,602,3,Kallang,Bendemeer,7920
+1164753,3,BS,3,303,3,Bishan,Bishan East,6140
+1164767,1,KL,6,601,3,Kallang,Boon Keng,2630
+1164936,1,BL,35,3501,8,Boon Lay,Boon Lay,920
+1164937,2,PI,35,3502,8,Pioneer,Boon Lay,700
+1164938,3,PI,35,3503,8,Pioneer,Boon Lay,500
+1164939,4,PI,35,3504,8,Pioneer,Boon Lay,4760
+1164940,5,BL,35,3505,8,Boon Lay,Boon Lay,4760
+1164941,6,BL,35,3506,8,Boon Lay,Boon Lay,4760
+1164942,7,BL,35,3507,8,Boon Lay,Boon Lay,4760
+1164943,8,PI,35,3508,8,Pioneer,Boon Lay,4760
+1164944,9,PI,35,3509,8,Pioneer,Boon Lay,4760
+1164974,7,JE,39,3907,8,Jurong East,Boon Lay,4760
+1164809,2,TP,12,1202,3,Toa Payoh,Boon Teck,4160
+1164812,5,TP,12,1205,3,Toa Payoh,Braddell,2650
+1164928,2,BK,34,3402,8,Bukit Batok,Bukit Batok Central,4700
+1164927,1,BK,34,3401,8,Bukit Batok,Bukit Batok East,2720
+1164930,4,BK,34,3404,8,Bukit Batok,Bukit Batok South,4540
+1164929,3,BK,34,3403,8,Bukit Batok,Bukit Batok West,2740
+1164744,11,BM,2,211,3,Bukit Merah,Bukit Ho Swee,4540
+1164749,16,BM,2,216,3,Bukit Merah,Bukit Ho Swee,4540
+1164746,13,BM,2,213,3,Bukit Merah,Bukit Merah,320
+1164949,5,BP,36,3605,8,Bukit Panjang,Bukit Panjang,0
+1164950,6,BP,36,3606,8,Bukit Panjang,Bukit Panjang,0
+1164957,6,CK,37,3706,8,Choa Chu Kang,Central,40
+1164982,5,JW,40,4005,8,Jurong West,Central,40
+1164829,1,CH,15,1501,4,Changi,Changi,0
+1164830,2,CH,15,1502,4,Changi,Changi,0
+1164831,3,CH,15,1503,4,Changi,Changi,0
+1164828,1,CB,14,1401,4,Changi Bay,Changi Bay,0
+1164855,7,AM,19,1907,5,Ang Mo Kio,Cheng San,6950
+1164851,3,AM,19,1903,5,Ang Mo Kio,Chong Boon,0
+1164962,4,CL,38,3804,8,Clementi,Clementi Central,6000
+1164959,1,CL,38,3801,8,Clementi,Clementi North,7810
+1164961,3,CL,38,3803,8,Clementi,Clementi West,3590
+1164965,7,CL,38,3807,8,Clementi,Clementi Woods,3630
+1164787,2,QT,9,902,3,Queenstown,Commonwealth,2270
+1164771,5,KL,6,605,3,Kallang,Crawford,3320
+1164793,8,QT,9,908,3,Queenstown,Dover,2610
+1164996,1,DT,43,4301,9,Downtown,Downtown,0
+1164997,2,DT,43,4302,9,Downtown,Downtown,0
+1164998,3,DT,43,4303,9,Downtown,Downtown,0
+1164999,4,DT,43,4304,9,Downtown,Downtown,0
+1165000,5,DT,43,4305,9,Downtown,Downtown,0
+1165001,6,DT,43,4306,9,Downtown,Downtown,0
+1165002,7,DT,43,4307,9,Downtown,Downtown,0
+1165003,8,DT,43,4308,9,Downtown,Downtown,0
+1165004,9,DT,43,4309,9,Downtown,Downtown,0
+1165005,10,DT,43,4310,9,Downtown,Downtown,0
+1165006,11,DT,43,4311,9,Downtown,Downtown,0
+1165007,12,DT,43,4312,9,Downtown,Downtown,0
+1164837,1,PR,17,1701,5,Pasir Ris,Elias,0
+1164948,4,BP,36,3604,8,Bukit Panjang,Fajar,3580
+1164824,5,BD,13,1305,4,Bedok,Frankel,6960
+1164763,2,GL,5,502,3,Geylang,Geylang,0
+1164769,3,KL,6,603,3,Kallang,Geylang Bahru,3220
+1164766,5,GL,5,505,3,Geylang,Geylang East,7410
+1164788,3,QT,9,903,3,Queenstown,Ghim Moh,3310
+1164745,12,BM,2,212,3,Bukit Merah,Henderson Hill,3540
+1164747,14,BM,2,214,3,Bukit Merah,Henderson Hill,3540
+1164931,5,BK,34,3405,8,Bukit Batok,Hillview,2820
+1164796,11,QT,9,911,3,Queenstown,Holland Drive,4250
+1164935,9,BK,34,3409,8,Bukit Batok,Hong Kah,10860
+1164978,1,JW,40,4001,8,Jurong West,Hong Kah,4590
+1164859,1,HG,20,2001,5,Hougang,Hougang Central,900
+1164820,1,BD,13,1301,4,Bedok,Kaki Bukit,7910
+1164819,12,TP,12,1212,3,Toa Payoh,Kallang,0
+1164773,7,KL,6,607,3,Kallang,Kampong Java,2750
+1164748,15,BM,2,215,3,Bukit Merah,Kampong Tiong Bahru,3060
+1164955,4,CK,37,3704,8,Choa Chu Kang,Keat Hong,1970
+1164854,6,AM,19,1906,5,Ang Mo Kio,Kebun Bahru,6090
+1164822,3,BD,13,1303,4,Bedok,Kembangan,9000
+1164811,4,TP,12,1204,3,Toa Payoh,Kim Keat,2040
+1164956,5,CK,37,3705,8,Choa Chu Kang,Kranji North,0
+1164770,4,KL,6,604,3,Kallang,Lavender,2440
+1164883,1,LK,26,2601,6,Lim Chu Kang,Lim Chu Kang,0
+1164861,3,HG,20,2003,5,Hougang,Lorong Ah Soo,7710
+1164762,1,GL,5,501,3,Geylang,Macpherson,6820
+1164884,1,MD,27,2701,6,Mandai,Mandai,0
+1164885,2,MD,27,2702,6,Mandai,Mandai,0
+1164886,3,MD,27,2703,6,Mandai,Mandai,0
+1165008,1,ME,44,4401,9,Marina East,Marina East,0
+1165009,1,MS,45,4501,9,Marina South,Marina South,0
+1164777,2,MP,7,702,3,Marine Parade,Marine Parade,7120
+1164778,3,MP,7,703,3,Marine Parade,Marine Parade,7120
+1164779,4,MP,7,704,3,Marine Parade,Marine Parade,7120
+1164752,2,BS,3,302,3,Bishan,Marymount,7120
+1164815,8,TP,12,1208,3,Toa Payoh,Marymount,7120
+1164790,5,QT,9,905,3,Queenstown,Mei Chin,3960
+1164909,2,WD,31,3102,6,Woodlands,Midview,3890
+1164776,1,MP,7,701,3,Mountbatten,Mountbatten,1990
+1165010,1,MU,46,4601,9,Museum,Museum,0
+1165011,2,MU,46,4602,9,Museum,Museum,0
+1165012,3,MU,46,4603,9,Museum,Museum,0
+1165013,1,NT,47,4701,9,Newton,Newton,20
+1165014,2,NT,47,4702,9,Newton,Newton,20
+1165015,3,NT,47,4703,9,Newton,Newton,20
+1165016,4,NT,47,4704,9,Newton,Newton,20
+1165017,5,NT,47,4705,9,Newton,Newton,20
+1165018,6,NT,47,4706,9,Newton,Newton,20
+1164918,2,YS,32,3202,6,Yishun,Northland,4760
+1164785,5,NV,8,805,3,NovenaNovena,Novena,0
+1164736,3,BM,2,203,3,Bukit Merah,Others,0
+1164737,4,BM,2,204,3,Bukit Merah,Others,0
+1164738,5,BM,2,205,3,Bukit Merah,Others,0
+1164739,6,BM,2,206,3,Bukit Merah,Others,0
+1164743,10,BM,2,210,3,Bukit Merah,Others,0
+1164757,4,BT,4,404,3,Bukit Timah,Others,0
+1164758,5,BT,4,405,3,Bukit Timah,Others,0
+1164759,6,BT,4,406,3,Bukit Timah,Others,0
+1164761,8,BT,4,408,3,Bukit Timah,Others,0
+1164764,3,GL,5,503,3,Geylang,Others,0
+1164765,4,GL,5,504,3,Geylang,Others,0
+1164772,6,KL,6,606,3,Kallang,Others,0
+1164774,8,KL,6,608,3,Kallang,Others,0
+1164775,9,KL,6,609,3,Kallang,Others,0
+1164780,5,MP,7,705,3,Marine Parade,Others,0
+1164781,1,NV,8,801,3,OthersNovena,Others,0
+1164782,2,NV,8,802,3,OthersNovena,Others,0
+1164783,3,NV,8,803,3,OthersNovena,Others,0
+1164784,4,NV,8,804,3,OthersNovena,Others,0
+1164786,1,QT,9,901,3,Queenstown,Others,0
+1164789,4,QT,9,904,3,Queenstown,Others,0
+1164792,7,QT,9,907,3,Queenstown,Others,0
+1164794,9,QT,9,909,3,Queenstown,Others,0
+1164795,10,QT,9,910,3,Queenstown,Others,0
+1164797,12,QT,9,912,3,Queenstown,Others,0
+1164798,13,QT,9,913,3,Queenstown,Others,0
+1164799,14,QT,9,914,3,Queenstown,Others,0
+1164800,15,QT,9,915,3,Queenstown,Others,0
+1164801,16,QT,9,916,3,Queenstown,Others,0
+1164814,7,TP,12,1207,3,Toa Payoh,Others,0
+1164816,9,TP,12,1209,3,Toa Payoh,Others,0
+1164817,10,TP,12,1210,3,Toa Payoh,Others,0
+1164818,11,TP,12,1211,3,Toa Payoh,Others,0
+1164826,7,BD,13,1307,4,Bedok,Others,0
+1164827,8,BD,13,1308,4,Bedok,Others,0
+1164839,3,PR,17,1703,4,Pasir Ris,Others,0
+1164841,5,PR,17,1705,4,Pasir Ris,Others,0
+1164842,6,PR,17,1706,4,Pasir Ris,Others,0
+1164843,7,PR,17,1707,4,Pasir Ris,Others,0
+1164844,1,TM,18,1801,4,Tampines,Others,0
+1164845,2,TM,18,1802,4,Tampines,Others,0
+1164847,4,TM,18,1804,4,Tampines,Others,0
+1164849,1,AM,19,1901,5,Ang Mo Kio,Others,940
+1164853,5,AM,19,1905,5,Ang Mo Kio,Others,940
+1164857,9,AM,19,1909,5,Ang Mo Kio,Others,940
+1164863,5,HG,20,2005,5,Hougang,Others,0
+1164864,6,HG,20,2006,5,Hougang,Others,0
+1164865,7,HG,20,2007,5,Hougang,Others,0
+1164871,1,SE,23,2301,5,Sengkang,Others,0
+1164872,2,SE,23,2302,5,Sengkang,Others,0
+1164873,3,SE,23,2303,5,Sengkang,Others,0
+1164874,4,SE,23,2304,5,Sengkang,Others,0
+1164875,5,SE,23,2305,5,Sengkang,Others,0
+1164876,6,SE,23,2306,5,Sengkang,Others,0
+1164887,1,SB,28,2801,6,Sembawang,Others,0
+1164888,2,SB,28,2802,6,Sembawang,Others,0
+1164889,3,SB,28,2803,6,Sembawang,Others,0
+1164890,4,SB,28,2804,6,Sembawang,Others,0
+1164892,6,SB,28,2806,6,Sembawang,Others,0
+1164893,7,SB,28,2807,6,Sembawang,Others,0
+1164894,8,SB,28,2808,6,Sembawang,Others,0
+1164895,9,SB,28,2809,6,Sembawang,Others,0
+1164908,1,WD,31,3101,6,Woodlands,Others,0
+1164914,7,WD,31,3107,6,Woodlands,Others,0
+1164915,8,WD,31,3108,6,Woodlands,Others,0
+1164916,9,WD,31,3109,6,Woodlands,Others,0
+1164917,1,YS,32,3201,6,Yishun,Others,8280
+1164919,3,YS,32,3203,6,Yishun,Others,4760
+1164920,4,YS,32,3204,6,Yishun,Others,5100
+1164921,5,YS,32,3205,6,Yishun,Others,4760
+1164924,8,YS,32,3208,6,Yishun,Others,4760
+1164925,9,YS,32,3209,6,Yishun,Others,4760
+1164932,6,BK,34,3406,8,Bukit Batok,Others,0
+1164933,7,BK,34,3407,8,Bukit Batok,Others,0
+1164934,8,BK,34,3408,8,Bukit Batok,Others,0
+1164945,1,BP,36,3601,8,Bukit Panjang,Others,0
+1164946,2,BP,36,3602,8,Bukit Panjang,Others,0
+1164951,7,BP,36,3607,8,Bukit Panjang,Others,0
+1164960,2,CL,38,3802,8,Clementi,Others,3160
+1164963,5,CL,38,3805,8,Clementi,Others,3160
+1164964,6,CL,38,3806,8,Clementi,Others,3160
+1164966,8,CL,38,3808,8,Clementi,Others,3160
+1164967,9,CL,38,3809,8,Clementi,Others,3160
+1164968,1,JE,39,3901,8,Jurong East,Others,0
+1164969,2,JE,39,3902,8,Jurong East,Others,0
+1164971,4,JE,39,3904,8,Jurong East,Others,0
+1164972,5,JE,39,3905,8,Jurong East,Others,0
+1164975,8,JE,39,3908,8,Jurong East,Others,0
+1164976,9,JE,39,3909,8,Jurong East,Others,0
+1164977,10,JE,39,3910,8,Jurong East,Others,0
+1164979,2,JW,40,4002,8,Jurong West,Others,7760
+1164980,3,JW,40,4003,8,Jurong West,Others,7760
+1164984,7,JW,40,4007,8,Jurong West,Others,7760
+1164985,8,JW,40,4008,8,Jurong West,Others,7760
+1164986,9,JW,40,4009,8,Jurong West,Others,7760
+1165023,1,OR,49,4901,9,Orchard,Others,12780
+1165025,3,OR,49,4903,9,Orchard,Others,12780
+1165019,1,OP,48,4801,9,Outram,Outram,0
+1165020,2,OP,48,4802,9,Outram,Outram,0
+1165021,3,OP,48,4803,9,Outram,Outram,0
+1165022,4,OP,48,4804,9,Outram,Outram,0
+1164953,2,CK,37,3702,8,Choa Chu Kang,Pang Sua,0
+1164838,2,PR,17,1702,4,Pasir Ris,Pasir Ris Drive,8200
+1164840,4,PR,17,1704,4,Pasir Ris,Pasir Ris Town,3140
+1164832,1,PL,16,1601,4,Paya Lebar,Paya Lebar,0
+1164833,2,PL,16,1602,4,Paya Lebar,Paya Lebar,0
+1164834,3,PL,16,1603,4,Paya Lebar,Paya Lebar,0
+1164835,4,PL,16,1604,4,Paya Lebar,Paya Lebar,0
+1164836,5,PL,16,1605,4,Paya Lebar,Paya Lebar,0
+1165024,2,OR,49,4902,9,Orchard,Pearl's Hill,12780
+1164810,3,TP,12,1203,3,Toa Payoh,Pei Chun,2870
+1164958,7,CK,37,3707,8,Choa Chu Kang,Peng Siang,4340
+1164813,6,TP,12,1206,3,Toa Payoh,Potong Pasir,3160
+1164867,1,PG,22,2201,5,Punggol,Punggol,400
+1164868,2,PG,22,2202,5,Punggol,Punggol,500
+1164869,3,PG,22,2203,5,Punggol,Punggol,5010
+1164870,4,PG,22,2204,5,Punggol,Punggol,5010
+1164735,2,BM,2,202,3,Bukit Merah,Redhill,2520
+1164741,8,BM,2,208,3,Bukit Merah,Redhill,2520
+1165037,1,RV,52,5201,9,River Valley,River Valley,0
+1165038,2,RV,52,5202,9,River Valley,River Valley,0
+1165039,3,RV,52,5203,9,River Valley,River Valley,0
+1165040,4,RV,52,5204,9,River Valley,River Valley,0
+1165041,5,RV,52,5205,9,River Valley,River Valley,0
+1165027,1,RC,51,5101,9,Rochor,Rochor,0
+1165028,2,RC,51,5102,9,Rochor,Rochor,0
+1165029,3,RC,51,5103,9,Rochor,Rochor,0
+1165030,4,RC,51,5104,9,Rochor,Rochor,0
+1165031,5,RC,51,5105,9,Rochor,Rochor,0
+1165032,6,RC,51,5106,9,Rochor,Rochor,0
+1165033,7,RC,51,5107,9,Rochor,Rochor,0
+1165034,8,RC,51,5108,9,Rochor,Rochor,0
+1165035,9,RC,51,5109,9,Rochor,Rochor,0
+1165036,10,RC,51,5110,9,Rochor,Rochor,0
+1164860,2,HG,20,2002,5,Hougang,Rosyth,0
+1164947,3,BP,36,3603,8,Bukit Panjang,Saujana,2970
+1164882,1,SL,25,2501,5,Selatar,Selatar,30
+1164878,1,SG,24,2401,5,Serangoon,Seletar Hills,0
+1164901,1,SM,30,3001,6,Simpang,Sembawang,3340
+1164902,2,SM,30,3002,6,Simpang,Sembawang,0
+1164903,3,SM,30,3003,6,Simpang,Sembawang,1550
+1164904,4,SM,30,3004,6,Simpang,Sembawang,2830
+1164905,5,SM,30,3005,6,Simpang,Sembawang,830
+1164906,6,SM,30,3006,6,Simpang,Sembawang,250
+1164907,7,SM,30,3007,6,Simpang,Sembawang,0
+1164891,5,SB,28,2805,6,Sembawang,Sembawang Central,3340
+1164802,1,SI,10,1001,3,South Island,Sentosa Island,150
+1164803,2,SI,10,1002,3,South Island,Sentosa Island,150
+1164881,4,SG,24,2404,5,Serangoon,Serangoon Central,13700
+1164880,3,SG,24,2403,5,Serangoon,Serangoon Garden,9650
+1164879,2,SG,24,2402,5,Serangoon,Serangoon North,2670
+1164877,7,SE,23,2307,5,Sengkang,Serangoon West,0
+1164852,4,AM,19,1904,5,Ang Mo Kio,Shangri-La,4460
+1164856,8,AM,19,1908,5,Ang Mo Kio,Sindo,0
+1165042,1,SR,53,5301,9,Singapore River,Singapore River,0
+1165043,2,SR,53,5302,9,Singapore River,Singapore River,0
+1165044,3,SR,53,5303,9,Singapore River,Singapore River,0
+1164922,6,YS,32,3206,6,Yishun,South,0
+1164993,1,WI,42,4201,8,West Island,South Island,4000
+1164994,2,WI,42,4202,8,West Island,South Island,1740
+1164995,3,WI,42,4203,8,West Island,South Island,1600
+1165026,1,PV,50,5001,9,Strait View,Strait View,0
+1164896,1,SK,29,2901,6,Sungei Kedut,Sungei Kedut,690
+1164897,2,SK,29,2902,6,Sungei Kedut,Sungei Kedut,690
+1164898,3,SK,29,2903,6,Sungei Kedut,Sungei Kedut,690
+1164899,4,SK,29,2904,6,Sungei Kedut,Sungei Kedut,690
+1164900,5,SK,29,2905,6,Sungei Kedut,Sungei Kedut,690
+1164983,6,JW,40,4006,8,Jurong West,Taman Jurong,5380
+1164848,5,TM,18,1805,4,Tampines,Tampines East,200
+1164846,3,TM,18,1803,4,Tampines,Tampines West,12780
+1164804,1,TN,11,1101,3,Tanglin,Tanglin,70
+1164805,2,TN,11,1102,3,Tanglin,Tanglin,70
+1164806,3,TN,11,1103,3,Tanglin,Tanglin,70
+1164807,4,TN,11,1104,3,Tanglin,Tanglin,70
+1164791,6,QT,9,906,3,Queenstown,Tanglin Halt,3530
+1164973,6,JE,39,3906,8,Jurong East,Teban Garden,4220
+1164952,1,CK,37,3701,8,Choa Chu Kang,Teck Whye,4710
+1164734,1,BM,2,201,3,Bukit Merah,Telok Blangah Drive,4180
+1164740,7,BM,2,207,3,Bukit Merah,Telok Blangah Rise,4000
+1164750,17,BM,2,217,3,Bukit Merah,Telok Blangah Way,2900
+1165045,1,TH,54,5401,8,Tengah,Tengah,0
+1164742,9,BM,2,209,3,Bukit Merah,Tiong Bahru,3040
+1164808,1,TP,12,1201,3,Toa Payoh,Toa Payoh Central,6240
+1164850,2,AM,19,1902,5,Ang Mo Kio,Townsville,6040
+1164862,4,HG,20,2004,5,Hougang,Trafalgar,7100
+1164987,1,TS,41,4101,8,Tuas,Tuas,0
+1164988,2,TS,41,4102,8,Tuas,Tuas,0
+1164989,3,TS,41,4103,8,Tuas,Tuas,0
+1164990,4,TS,41,4104,8,Tuas,Tuas,0
+1164991,5,TS,41,4105,8,Tuas,Tuas,0
+1164992,6,TS,41,4106,8,Tuas,Tuas,0
+1164866,1,NE,21,2101,5,North East Island,ubin,0
+1164760,7,BT,4,407,3,Bukit Timah,Ulu Pandan,2350
+1164751,1,BS,3,301,3,Bishan,Upper Thomson,7230
+1164733,1,CC,1,101,2,Centre Catchment,Water Catchment,0
+1164926,1,WC,33,3301,7,Water Catchment,Water Catchment,0
+1164923,7,YS,32,3207,6,Yishun,West,5590
+1164911,4,WD,31,3104,6,Woodlands,Woodgrove,4060
+1164910,3,WD,31,3103,6,Woodlands,Woodlands East,9190
+1164912,5,WD,31,3105,6,Woodlands,Woodlands South,3910
+1164913,6,WD,31,3106,6,Woodlands,Woodlands West,5730
+1164954,3,CK,37,3703,8,Choa Chu Kang,Yew Tee,4710
+1164858,10,AM,19,1910,5,Ang Mo Kio,Yio Chu Kang,5590
+1164888,,YS,29,,,Yishun,Yishun,23730
+1164970,3,JE,39,3903,8,Jurong East,Yuhua,11600
+1164981,4,JW,40,4004,8,Jurong West,Yunnan,9370

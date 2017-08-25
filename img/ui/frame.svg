@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1280px"
+	 height="720px" viewBox="0 0 1280 720" enable-background="new 0 0 1280 720" xml:space="preserve">
+<pattern  width="6.001" height="6.001" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_2" viewBox="0 -6.001 6.001 6.001" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 6.001,0 6.001,-6.001 0,-6.001 		"/>
+		<polygon fill="none" stroke="#13B3E8" stroke-width="0.25" stroke-miterlimit="10" points="5.876,-0.125 0.125,-0.125 
+			0.125,-5.876 5.876,-5.876 		"/>
+	</g>
+</pattern>
+<g id="Layer_1" display="none">
+	<g display="inline">
+		<g>
+			<polygon fill="#13B3E8" points="22.067,164.235 1,140.345 1,66.506 65.506,2 219.515,2 202.792,23.068 74.233,23.068 
+				22.067,75.233 			"/>
+		</g>
+		<g>
+			<polygon fill="#13B3E8" points="1258.933,164.235 1280,140.345 1280,66.506 1215.494,2 1061.484,2 1078.209,23.068 
+				1206.768,23.068 1258.933,75.233 			"/>
+		</g>
+		<polygon fill="#13B3E8" points="22.067,557.764 1,581.654 1,655.494 65.506,720 219.515,720 202.792,698.933 74.233,698.933 
+			22.067,646.767 		"/>
+		<polygon fill="#13B3E8" points="1258.933,557.764 1280,581.654 1280,655.494 1215.494,720 1061.484,720 1078.209,698.933 
+			1206.768,698.933 1258.933,646.767 		"/>
+	</g>
+</g>
+<g id="Layer_2">
+	<g>
+		<line fill="none" stroke="#13B3E8" stroke-miterlimit="10" x1="5.742" y1="600.971" x2="5.742" y2="119.526"/>
+		<path fill="none" stroke="#13B3E8" stroke-width="3" stroke-miterlimit="10" d="M64.843,714.747
+			c-32.637,0-59.101-32.66-59.101-72.956"/>
+		<line fill="none" stroke="#13B3E8" stroke-miterlimit="10" x1="1188.1" y1="714.747" x2="92.395" y2="714.747"/>
+		<path fill="none" stroke="#13B3E8" stroke-width="3" stroke-miterlimit="10" d="M1274.742,641.791
+			c0,40.296-26.456,72.956-59.093,72.956"/>
+		<line fill="none" stroke="#13B3E8" stroke-miterlimit="10" x1="1274.742" y1="119.526" x2="1274.742" y2="600.971"/>
+		<path fill="none" stroke="#13B3E8" stroke-width="3" stroke-miterlimit="10" d="M1215.649,5.748
+			c32.637,0,59.093,32.66,59.093,72.956"/>
+		<line fill="none" stroke="#13B3E8" stroke-miterlimit="10" x1="92.395" y1="5.748" x2="1188.1" y2="5.748"/>
+		<path fill="none" stroke="#13B3E8" stroke-width="3" stroke-miterlimit="10" d="M5.742,78.704
+			c0-40.296,26.464-72.956,59.101-72.956"/>
+	</g>
+	<g opacity="0.2">
+		<path fill="#13B3E8" d="M1245.195,628.977c0,31.903-19.455,57.771-43.451,57.771H78.748c-23.999,0-43.456-25.868-43.456-57.771
+			V91.518c0-31.904,19.457-57.77,43.456-57.77h1122.996c23.996,0,43.451,25.866,43.451,57.77V628.977z"/>
+		<path fill="url(#New_Pattern_Swatch_2)" d="M1245.195,628.977c0,31.903-19.455,57.771-43.451,57.771H78.748
+			c-23.999,0-43.456-25.868-43.456-57.771V91.518c0-31.904,19.457-57.77,43.456-57.77h1122.996c23.996,0,43.451,25.866,43.451,57.77
+			V628.977z"/>
+	</g>
+</g>
+</svg>
